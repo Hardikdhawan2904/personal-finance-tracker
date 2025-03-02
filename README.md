@@ -16,3 +16,11 @@ A simple **Personal Finance Tracker** built using **Python (Tkinter)** that help
 git clone https://github.com/yourusername/Personal-Finance-Tracker.git
 cd Personal-Finance-Tracker
 
+2️⃣ Install dependencies
+Ensure you have Python installed. Required libraries:
+
+pip install matplotlib
+
+3️⃣ Run the application
+
+python finance_tracker.py
